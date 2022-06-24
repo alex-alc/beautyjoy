@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #414141;
+    font-size: 24px;
+}
+
+.wrapper {
+    color: #434343;
+    background-color: #f8f8f8;
+
+}
+
+h1 {
+    color: #2C2C2C;
+    font-size: 3rem;
+}
